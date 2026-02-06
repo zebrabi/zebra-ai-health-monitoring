@@ -12,7 +12,7 @@ status-website:
   theme: light
   baseUrl: /zebra-ai-health-monitoring
   logoUrl: https://app.zebra-ai.com/zebra-ai-2.png
-  name: 
+  name:  
   # introTitle: "**Zebra AI for Fabric Status**"
   introMessage: Live uptime and incident information for Zebra AI services.
   navbar:
