@@ -18,10 +18,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Main App
-      href: https://app.zebra-ai.com
-    - title: GitHub
-      href: https://github.com/zebra-ai
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
