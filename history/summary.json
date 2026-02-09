@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 549,
-    "timeWeek": 705,
-    "timeMonth": 705,
-    "timeYear": 705,
+    "time": 695,
+    "timeDay": 557,
+    "timeWeek": 695,
+    "timeMonth": 695,
+    "timeYear": 695,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Zebra AI Staging",
-    "url": "http://test.zebra-ai.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/test.zebra-ai.com.ico",
-    "slug": "zebra-ai-staging",
-    "status": "up",
-    "uptime": "98.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "98.62%",
-    "time": 856,
-    "timeDay": 713,
-    "timeWeek": 856,
-    "timeMonth": 856,
-    "timeYear": 856,
-    "dailyMinutesDown": {
-      "2026-02-06": 48
-    }
   }
 ]
