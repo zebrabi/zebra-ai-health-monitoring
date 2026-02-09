@@ -4,7 +4,7 @@ repo: zebra-ai-health-monitoring
 
 sites:
   - name: Zebra AI for Fabric
-    url: https://fabric.zebra-ai.com
+    url: $ZAI_FABRIC_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
