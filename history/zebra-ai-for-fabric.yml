@@ -1,7 +1,7 @@
 url: $ZAI_FABRIC_URL
-status: down
-code: 404
-responseTime: 415
-lastUpdated: 2026-09-12T06:29:32.875Z
+status: up
+code: 200
+responseTime: 455
+lastUpdated: 2026-09-12T06:47:40.067Z
 startTime: 2026-02-06T13:42:17.263Z
 generator: Upptime <https://github.com/upptime/upptime>
