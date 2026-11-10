@@ -4,17 +4,17 @@
     "url": "$ZAI_FABRIC_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "zebra-ai-for-fabric",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 674,
-    "timeWeek": 593,
-    "timeMonth": 508,
-    "timeYear": 626,
+    "time": 625,
+    "timeDay": 568,
+    "timeWeek": 577,
+    "timeMonth": 507,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2026-09-12": 18
     }
